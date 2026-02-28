@@ -1,0 +1,14 @@
+/home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/Introducao_OOP/Introducao_OOP/bin/Debug/net10.0/Introducao_OOP
+/home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/Introducao_OOP/Introducao_OOP/bin/Debug/net10.0/Introducao_OOP.deps.json
+/home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/Introducao_OOP/Introducao_OOP/bin/Debug/net10.0/Introducao_OOP.runtimeconfig.json
+/home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/Introducao_OOP/Introducao_OOP/bin/Debug/net10.0/Introducao_OOP.dll
+/home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/Introducao_OOP/Introducao_OOP/bin/Debug/net10.0/Introducao_OOP.pdb
+/home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/Introducao_OOP/Introducao_OOP/obj/Debug/net10.0/Introducao_OOP.GeneratedMSBuildEditorConfig.editorconfig
+/home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/Introducao_OOP/Introducao_OOP/obj/Debug/net10.0/Introducao_OOP.AssemblyInfoInputs.cache
+/home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/Introducao_OOP/Introducao_OOP/obj/Debug/net10.0/Introducao_OOP.AssemblyInfo.cs
+/home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/Introducao_OOP/Introducao_OOP/obj/Debug/net10.0/Introducao_OOP.csproj.CoreCompileInputs.cache
+/home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/Introducao_OOP/Introducao_OOP/obj/Debug/net10.0/Introducao_OOP.dll
+/home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/Introducao_OOP/Introducao_OOP/obj/Debug/net10.0/refint/Introducao_OOP.dll
+/home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/Introducao_OOP/Introducao_OOP/obj/Debug/net10.0/Introducao_OOP.pdb
+/home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/Introducao_OOP/Introducao_OOP/obj/Debug/net10.0/Introducao_OOP.genruntimeconfig.cache
+/home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/Introducao_OOP/Introducao_OOP/obj/Debug/net10.0/ref/Introducao_OOP.dll
