@@ -12,3 +12,4 @@
 /home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/Introducao_OOP/Introducao_OOP/obj/Debug/net10.0/Introducao_OOP.pdb
 /home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/Introducao_OOP/Introducao_OOP/obj/Debug/net10.0/Introducao_OOP.genruntimeconfig.cache
 /home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/Introducao_OOP/Introducao_OOP/obj/Debug/net10.0/ref/Introducao_OOP.dll
+/home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/Introducao_OOP/Introducao_OOP/obj/Debug/net10.0/Introducao_OOP.sourcelink.json

@@ -1,8 +1,8 @@
 namespace Introducao_OOP.Introducao_dotNet;
 
-internal class Dn01Impressao
+internal class DN_01_Impressao
 {
-    public Dn01Impressao()
+    public DN_01_Impressao()
     {
         // Comentário em uma única linha 
 
