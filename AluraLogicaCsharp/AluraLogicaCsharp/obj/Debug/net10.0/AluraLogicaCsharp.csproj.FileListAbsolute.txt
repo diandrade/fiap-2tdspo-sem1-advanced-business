@@ -1,0 +1,15 @@
+/home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/AluraLogicaCsharp/AluraLogicaCsharp/bin/Debug/net10.0/AluraLogicaCsharp
+/home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/AluraLogicaCsharp/AluraLogicaCsharp/bin/Debug/net10.0/AluraLogicaCsharp.deps.json
+/home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/AluraLogicaCsharp/AluraLogicaCsharp/bin/Debug/net10.0/AluraLogicaCsharp.runtimeconfig.json
+/home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/AluraLogicaCsharp/AluraLogicaCsharp/bin/Debug/net10.0/AluraLogicaCsharp.dll
+/home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/AluraLogicaCsharp/AluraLogicaCsharp/bin/Debug/net10.0/AluraLogicaCsharp.pdb
+/home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/AluraLogicaCsharp/AluraLogicaCsharp/obj/Debug/net10.0/AluraLogicaCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/AluraLogicaCsharp/AluraLogicaCsharp/obj/Debug/net10.0/AluraLogicaCsharp.AssemblyInfoInputs.cache
+/home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/AluraLogicaCsharp/AluraLogicaCsharp/obj/Debug/net10.0/AluraLogicaCsharp.AssemblyInfo.cs
+/home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/AluraLogicaCsharp/AluraLogicaCsharp/obj/Debug/net10.0/AluraLogicaCsharp.csproj.CoreCompileInputs.cache
+/home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/AluraLogicaCsharp/AluraLogicaCsharp/obj/Debug/net10.0/AluraLogicaCsharp.sourcelink.json
+/home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/AluraLogicaCsharp/AluraLogicaCsharp/obj/Debug/net10.0/AluraLogicaCsharp.dll
+/home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/AluraLogicaCsharp/AluraLogicaCsharp/obj/Debug/net10.0/refint/AluraLogicaCsharp.dll
+/home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/AluraLogicaCsharp/AluraLogicaCsharp/obj/Debug/net10.0/AluraLogicaCsharp.pdb
+/home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/AluraLogicaCsharp/AluraLogicaCsharp/obj/Debug/net10.0/AluraLogicaCsharp.genruntimeconfig.cache
+/home/diandrade/Documents/fiap-2tdspo-sem1-advanced-business/AluraLogicaCsharp/AluraLogicaCsharp/obj/Debug/net10.0/ref/AluraLogicaCsharp.dll
